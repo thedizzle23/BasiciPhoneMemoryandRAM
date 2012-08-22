@@ -1,0 +1,4 @@
+BasiciPhoneMemoryandRAM
+=======================
+
+epicprojectworkspace
